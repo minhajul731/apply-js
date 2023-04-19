@@ -7,7 +7,7 @@ function getFactorial(number) {
     return factorial;
 }
 
-let giveFactorialNumber = 10;
+let giveFactorialNumber = 3;
 let factorialResult = getFactorial(giveFactorialNumber);
 console.log(giveFactorialNumber + '! factorial is = ', factorialResult);
 
