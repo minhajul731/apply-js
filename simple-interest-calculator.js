@@ -8,4 +8,4 @@ let myPricipal = 10000;
 let myRate = 3.875;
 let time = 5;
 const simpleInterest = simpleInterestCalculator(myPricipal, myRate, time);
-console.log(simpleInterest.toFixed(2));
+console.log('Your Simple Interest is', simpleInterest.toFixed(2), 'Tk');
